@@ -1,5 +1,5 @@
-<h1>Hello! I'm Juan pineda <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 💻</h1>
-<h2>QA Engineer 🐛 and Aspiring Java Backend Developer 🔥</h2>
+<h1>Hello! I'm Juan pineda  🔥</h1>
+<h2>QA Engineer 🐛 and Aspiring Java Backend Developer 💻</h2>
 
 ### About Me
 - I am 34 years old and I am from Pereira, Risaralda, Colombia.
