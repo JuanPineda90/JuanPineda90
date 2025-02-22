@@ -3,9 +3,9 @@
 
 ### About Me
 - I am 34 years old and I am from Pereira, Risaralda, Colombia.
-- I am a QA and PERN full stack developer.
+- I am a Test Automator and have worked extensively with the SerenityBDD framework.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
+- I really enjoy backend development, which is why I'm focusing on learning Java and Spring Boot.
 
 ### Technologies
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
