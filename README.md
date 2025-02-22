@@ -1,13 +1,34 @@
-# ¡Hola! Soy Juan
+<h1>Hello! I'm Juan pineda <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 💻</h1>
+<h2>QA Engineer 🐛 and Aspiring Java Backend Developer 🔥</h2>
 
-Bienvenido a mi perfil de GitHub.
+### About Me
+- I am 34 years old and I am from Pereira, Risaralda, Colombia.
+- I am a QA and PERN full stack developer.
+- I am a self-taught and highly creative individual who seeks to learn and improve every day.
+- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
-- 👨‍💻 Soy Ingeniero QA y aprendiz de Backend Java.
-- 🛠️ Trabajo principalmente con pruebas automatizadas y desarrollo backend.
-- 🌱 Actualmente aprendiendo Spring Boot y otras tecnologías.
+### Technologies
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+  ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
+  <br/>
+  <br/>
+  ![SerinityBDD](https://img.shields.io/badge/-SerinityBDD-30bc94?style=flat&logo=sourcehut)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
+  ![Cucumber](https://img.shields.io/badge/-Cucumber-00a818?style=flat&logo=cucumber&logoColor=ffffff)
+  ![Gradle](https://img.shields.io/badge/-Gradle-%231da2bd?style=flat&logo=gradle&logoColor=ffffff)
+  ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=ffffff)
+  <br/>
+  <br/>
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff)
+  ![SoapUI](https://img.shields.io/badge/-SoapUI-fcdc00?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBpZD0iR3JvdXBfMTEyOSIgZGF0YS1uYW1lPSJHcm91cCAxMTI5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2My4wODciIGhlaWdodD0iNjMuMDg3IiB2aWV3Qm94PSIwIDAgNjMuMDg3IDYzLjA4NyI%2BCiAgPGcgaWQ9Ikdyb3VwXzExMjgiIGRhdGEtbmFtZT0iR3JvdXAgMTEyOCI%2BCiAgICA8ZyBpZD0iR3JvdXBfMTEyNiIgZGF0YS1uYW1lPSJHcm91cCAxMTI2Ij4KICAgICAgPGcgaWQ9Ikdyb3VwXzExMjUiIGRhdGEtbmFtZT0iR3JvdXAgMTEyNSI%2BCiAgICAgICAgPGcgaWQ9Ikdyb3VwXzExMjQiIGRhdGEtbmFtZT0iR3JvdXAgMTEyNCI%2BCiAgICAgICAgICA8ZyBpZD0iR3JvdXBfMTEyMSIgZGF0YS1uYW1lPSJHcm91cCAxMTIxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxLjUwMiAxLjUwMikiPgogICAgICAgICAgICA8cGF0aCBpZD0iUGF0aF84NzYiIGRhdGEtbmFtZT0iUGF0aCA4NzYiIGQ9Ik0zMS4wNDEsNjEuMDgzQTMwLjA0MSwzMC4wNDEsMCwxLDEsNjEuMDgzLDMxLjA0MSwzMC4xMywzMC4xMywwLDAsMSwzMS4wNDEsNjEuMDgzWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEgLTEpIiBmaWxsPSIjZmNkYzAwIi8%2BCiAgICAgICAgICA8L2c%2BCiAgICAgICAgICA8ZyBpZD0iR3JvdXBfMTEyMyIgZGF0YS1uYW1lPSJHcm91cCAxMTIzIj4KICAgICAgICAgICAgPGcgaWQ9Ikdyb3VwXzExMjIiIGRhdGEtbmFtZT0iR3JvdXAgMTEyMiI%2BCiAgICAgICAgICAgICAgPHBhdGggaWQ9IlBhdGhfODc3IiBkYXRhLW5hbWU9IlBhdGggODc3IiBkPSJNMzEuNTQzLDNBMjguNTM5LDI4LjUzOSwwLDEsMSwzLDMxLjU0MywyOC41MjcsMjguNTI3LDAsMCwxLDMxLjU0MywzbTAtM0EzMS41NDMsMzEuNTQzLDAsMSwwLDYzLjA4NywzMS41NDMsMzEuNTM5LDMxLjUzOSwwLDAsMCwzMS41NDMsMFoiIGZpbGw9IiMxNzM2NDciLz4KICAgICAgICAgICAgPC9nPgogICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgICAgPC9nPgogICAgPC9nPgogICAgPGcgaWQ9Ikdyb3VwXzExMjciIGRhdGEtbmFtZT0iR3JvdXAgMTEyNyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTAuODE1IDEwLjgxNSkiPgogICAgICA8cGF0aCBpZD0iUGF0aF84NzgiIGRhdGEtbmFtZT0iUGF0aCA4NzgiIGQ9Ik00Ni4xLDI2LjU3N2wyLjQtMy40NTUtMi41NTQtNi4zMDktNC4yMDYtLjc1MS0xLjgtMS45NTNMMzkuMTk0LDkuOSwzMi43MzUsNy4yLDI5LjI4LDkuNkgyNi43MjdMMjMuMjcyLDcuMiwxNi44MTMsOS45bC0uNzUxLDQuMjA2LTEuOTUzLDEuOEw5LjksMTYuNjYzLDcuMiwyMi45NzJsMi40LDMuNDU1djIuN0w3LjIsMzIuNTg1bDIuNyw2LjQ1OSw0LjIwNi43NTEsMS44LDEuOC43NTEsNC4yMDYsNi4zMDksMi43LDMuNDU1LTIuNGgyLjdsMy40NTUsMi40LDYuNDU5LTIuNTU0Ljc1MS00LjIwNiwxLjgtMS44LDQuMjA2LS43NTEsMi43LTYuMzA5LTIuNC0zLjQ1NVptLTEuMDUxLDYuNjA5TDQzLjcsMzYuNDlsLTMuNDU1LjYtMy4zLDMuMTU0LS42LDMuNDU1LTMuMywxLjM1MkwzMC4xODIsNDMuMUgyNS42NzVsLTIuODU0LDEuOTUzLTMuMy0xLjM1Mi0uNi0zLjQ1NS0zLjMtMy4zLTMuNDU1LS42LTEuMzUyLTMuMywxLjk1My0yLjg1NFYyNS42NzVMMTAuOCwyMi44MjFsMS4zNTItMy4zLDMuNDU1LS42LDMuMTU0LTMuMTU0LjYtMy40NTUsMy4zLTEuMzUyLDIuODU0LDEuOTUzaDQuNTA2bDIuODU0LTEuOTUzLDMuMywxLjM1Mi42LDMuNDU1LDMuMTU0LDMuMTU0LDMuNDU1LjYsMS4zNTIsMy4zTDQyLjgsMjUuNjc1djQuNTA2WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTcuMiAtNy4yKSIgZmlsbD0iIzE3MzY0NyIvPgogICAgICA8cGF0aCBpZD0iUGF0aF84NzkiIGRhdGEtbmFtZT0iUGF0aCA4NzkiIGQ9Ik0zMS45MjUsMTcuMTU2bC0xLjk1MywyLjI1M2E4LjQ1NSw4LjQ1NSwwLDAsMSwzLDYuMzA5LDguMjM3LDguMjM3LDAsMCwxLTguMjYxLDguMjYxaC0uNDUxbDUuODU4LTkuMTYzLTYuNjA5LTEuNUwyOC40NywxNC42bC0yLjU1NC0xLjUtNi45MSwxMi4xNjcsNi4zMDksMS4zNTItNC4wNTYsNi40NTlhOC4xMjQsOC4xMjQsMCwwLDEtNC42NTYtNy4zNiw4LjU2NCw4LjU2NCwwLDAsMSwyLjQtNS44NThsLTIuMS0yLjFhMTEuMjYzLDExLjI2MywwLDEsMCwxOS4yMjYsNy45NjFBMTIuNjY3LDEyLjY2NywwLDAsMCwzMS45MjUsMTcuMTU2WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTMuOTg3IC00LjIzOCkiIGZpbGw9IiMxNzM2NDciLz4KICAgIDwvZz4KICA8L2c%2BCjwvc3ZnPgo%3D&logoColor=ffffff)
+  <br/>
+  <br/>
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
-## Mis proyectos:
-- [Proyecto 1](https://github.com/juanperez/proyecto1)
-- [Proyecto 2](https://github.com/juanperez/proyecto2)
-
-¡Gracias por visitar mi perfil!
+### Contact Me
+<a href="www.linkedin.com/in/juanpineda90/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in/juanpineda90-blue?style=flat-square&logo=linkedin"></a>
+<a href="juanpineda90@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-juanpineda90@outlook.com-blue?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5maWxlX3R5cGVfb3V0bG9vazwvdGl0bGU+PHBhdGggZD0iTTE5LjQ4NCw3LjkzN3Y1LjQ3N0wyMS40LDE0LjYxOWEuNDg5LjQ4OSwwLDAsMCwuMjEsMGw4LjIzOC01LjU1NGExLjE3NCwxLjE3NCwwLDAsMC0uOTU5LTEuMTI4WiIgc3R5bGU9ImZpbGw6IzAwNzJjNiIvPjxwYXRoIGQ9Ik0xOS40ODQsMTUuNDU3bDEuNzQ3LDEuMmEuNTIyLjUyMiwwLDAsMCwuNTQzLDBjLS4zLjE4MSw4LjA3My01LjM3OCw4LjA3My01LjM3OFYyMS4zNDVhMS40MDgsMS40MDgsMCwwLDEtMS40OSwxLjU1NUgxOS40ODNWMTUuNDU3WiIgc3R5bGU9ImZpbGw6IzAwNzJjNiIvPjxwYXRoIGQ9Ik0xMC40NCwxMi45MzJhMS42MDksMS42MDksMCwwLDAtMS40Mi44MzgsNC4xMzEsNC4xMzEsMCwwLDAtLjUyNiwyLjIxOEE0LjA1LDQuMDUsMCwwLDAsOS4wMiwxOC4yYTEuNiwxLjYsMCwwLDAsMi43NzEuMDIyLDQuMDE0LDQuMDE0LDAsMCwwLC41MTUtMi4yLDQuMzY5LDQuMzY5LDAsMCwwLS41LTIuMjgxQTEuNTM2LDEuNTM2LDAsMCwwLDEwLjQ0LDEyLjkzMloiIHN0eWxlPSJmaWxsOiMwMDcyYzYiLz48cGF0aCBkPSJNMi4xNTMsNS4xNTVWMjYuNTgyTDE4LjQ1MywzMFYyWk0xMy4wNjEsMTkuNDkxYTMuMjMxLDMuMjMxLDAsMCwxLTIuNywxLjM2MSwzLjE5LDMuMTksMCwwLDEtMi42NC0xLjMxOEE1LjQ1OSw1LjQ1OSwwLDAsMSw2LjcwNiwxNi4xYTUuODY4LDUuODY4LDAsMCwxLDEuMDM2LTMuNjE2QTMuMjY3LDMuMjY3LDAsMCwxLDEwLjQ4NiwxMS4xYTMuMTE2LDMuMTE2LDAsMCwxLDIuNjEsMS4zMjEsNS42MzksNS42MzksMCwwLDEsMSwzLjQ4NEE1Ljc2Myw1Ljc2MywwLDAsMSwxMy4wNjEsMTkuNDkxWiIgc3R5bGU9ImZpbGw6IzAwNzJjNiIvPjwvc3ZnPg%3D%3D"></a>  
