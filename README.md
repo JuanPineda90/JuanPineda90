@@ -11,6 +11,7 @@
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
   ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
+  ![Databricks](https://custom-icon-badges.demolab.com/badge/databricks-FFFFFF?logo=databricks&logoColor=red)
   <br/>
   <br/>
   ![SerinityBDD](https://img.shields.io/badge/-SerinityBDD-30bc94?style=flat&logo=sourcehut)
