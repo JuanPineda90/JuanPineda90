@@ -2,10 +2,9 @@
 <h2>QA Engineer 🐛 and Aspiring Java Backend Developer 💻</h2>
 
 ### About Me
-- I am 34 years old and I am from Pereira, Risaralda, Colombia.
-- I am a Test Automator and have worked extensively with the SerenityBDD framework.
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I really enjoy backend development, which is why I'm focusing on learning Java and Spring Boot.
+Construcción de pipelines de datos confiables en Databricks y AWS bajo arquitectura Medallion: ingesta desde APIs y archivos hacia Bronze en Delta Lake, limpieza y validación en Silver, modelado dimensional en Gold y vistas listas para consumo.
+
+Más de 7 años en calidad y automatización en banca y seguros. Esa experiencia aporta una forma de trabajar en datos: validar antes de publicar, anticipar cómo se rompe un pipeline y no dejar pasar un dato dudoso.
 
 ### Technologies
   ![Databricks](https://custom-icon-badges.demolab.com/badge/databricks-FFFFFF?logo=databricks&logoColor=red)
